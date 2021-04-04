@@ -1,0 +1,16 @@
+{
+    "name": "necessarylion/thsms-sdk",
+    "description": "THSMS.com SMS Service Provider SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AJ",
+            "email": "necessarylion@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Necessarylion\\": "src/"}
+    },
+    "require": {}
+}
